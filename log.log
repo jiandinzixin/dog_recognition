@@ -1,0 +1,117 @@
+2025-04-09 05:49:45,829 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735
+2025-04-09 05:50:26,062 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959
+2025-04-09 05:51:04,538 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776
+2025-04-09 05:51:44,973 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551
+2025-04-09 05:52:23,598 - INFO - Epoch 5, Test Loss: 0.0436, Test acc: 0.8776
+2025-04-09 05:53:02,047 - INFO - Epoch 6, Test Loss: 0.0370, Test acc: 0.8980
+2025-04-09 05:53:39,783 - INFO - Epoch 7, Test Loss: 0.0325, Test acc: 0.8980
+2025-04-09 05:54:17,676 - INFO - Epoch 8, Test Loss: 0.0357, Test acc: 0.8980
+2025-04-09 05:54:55,388 - INFO - Epoch 9, Test Loss: 0.0352, Test acc: 0.9184
+2025-04-09 05:55:33,111 - INFO - Epoch 10, Test Loss: 0.0362, Test acc: 0.9184
+2025-04-09 05:56:10,837 - INFO - Epoch 11, Test Loss: 0.0363, Test acc: 0.9184
+2025-04-09 05:56:48,303 - INFO - Epoch 12, Test Loss: 0.0375, Test acc: 0.9184
+2025-04-09 05:57:26,210 - INFO - Epoch 13, Test Loss: 0.0377, Test acc: 0.8776
+2025-04-09 05:58:04,424 - INFO - Epoch 14, Test Loss: 0.0386, Test acc: 0.9184
+2025-04-09 05:58:44,089 - INFO - Epoch 15, Test Loss: 0.0385, Test acc: 0.8776
+2025-04-09 05:59:24,836 - INFO - Epoch 16, Test Loss: 0.0389, Test acc: 0.8776
+2025-04-09 06:00:02,188 - INFO - Epoch 17, Test Loss: 0.0395, Test acc: 0.8776
+2025-04-09 06:00:41,267 - INFO - Epoch 18, Test Loss: 0.0396, Test acc: 0.8776
+2025-04-09 06:01:19,279 - INFO - Epoch 19, Test Loss: 0.0399, Test acc: 0.8776
+2025-04-09 06:01:57,496 - INFO - Epoch 20, Test Loss: 0.0401, Test acc: 0.8776
+2025-04-09 06:02:36,445 - INFO - Epoch 21, Test Loss: 0.0405, Test acc: 0.8776
+2025-04-09 06:03:14,391 - INFO - Epoch 22, Test Loss: 0.0410, Test acc: 0.8776
+2025-04-09 06:03:53,720 - INFO - Epoch 23, Test Loss: 0.0408, Test acc: 0.8776
+2025-04-09 06:04:32,324 - INFO - Epoch 24, Test Loss: 0.0411, Test acc: 0.8776
+2025-04-09 06:05:10,377 - INFO - Epoch 25, Test Loss: 0.0415, Test acc: 0.8776
+2025-04-09 06:05:50,178 - INFO - Epoch 26, Test Loss: 0.0422, Test acc: 0.8776
+2025-04-09 06:06:30,513 - INFO - Epoch 27, Test Loss: 0.0420, Test acc: 0.8776
+2025-04-09 06:07:09,407 - INFO - Epoch 28, Test Loss: 0.0422, Test acc: 0.8776
+2025-04-09 06:07:48,372 - INFO - Epoch 29, Test Loss: 0.0422, Test acc: 0.8776
+2025-04-09 06:08:28,787 - INFO - Epoch 30, Test Loss: 0.0424, Test acc: 0.8776
+2025-04-24 23:31:25,604 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735
+2025-04-24 23:32:05,259 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959
+2025-04-24 23:34:05,527 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-04-24 23:34:56,529 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-04-24 23:35:33,442 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-04-24 23:36:11,005 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-04-24 23:36:48,082 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551, F1: 0.7470
+2025-04-24 23:37:29,788 - INFO - Epoch 5, Test Loss: 0.0436, Test acc: 0.8776, F1: 0.8783
+2025-04-24 23:38:52,781 - INFO - Epoch 6, Test Loss: 0.0370, Test acc: 0.8980, F1: 0.8962
+2025-04-24 23:40:18,747 - INFO - Epoch 7, Test Loss: 0.0325, Test acc: 0.8980, F1: 0.8973
+2025-04-24 23:40:56,200 - INFO - Epoch 8, Test Loss: 0.0357, Test acc: 0.8980, F1: 0.8962
+2025-04-24 23:41:38,275 - INFO - Epoch 9, Test Loss: 0.0352, Test acc: 0.9184, F1: 0.9177
+2025-04-24 23:42:17,162 - INFO - Epoch 10, Test Loss: 0.0362, Test acc: 0.9184, F1: 0.9170
+2025-04-24 23:42:55,350 - INFO - Epoch 11, Test Loss: 0.0363, Test acc: 0.9184, F1: 0.9170
+2025-04-24 23:43:34,831 - INFO - Epoch 12, Test Loss: 0.0375, Test acc: 0.9184, F1: 0.9170
+2025-04-24 23:44:13,839 - INFO - Epoch 13, Test Loss: 0.0377, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:44:53,097 - INFO - Epoch 14, Test Loss: 0.0386, Test acc: 0.9184, F1: 0.9170
+2025-04-24 23:45:32,467 - INFO - Epoch 15, Test Loss: 0.0385, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:46:11,388 - INFO - Epoch 16, Test Loss: 0.0389, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:46:50,475 - INFO - Epoch 17, Test Loss: 0.0395, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:47:29,739 - INFO - Epoch 18, Test Loss: 0.0396, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:48:09,252 - INFO - Epoch 19, Test Loss: 0.0399, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:48:48,107 - INFO - Epoch 20, Test Loss: 0.0401, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:49:26,917 - INFO - Epoch 21, Test Loss: 0.0405, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:50:04,787 - INFO - Epoch 22, Test Loss: 0.0410, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:50:42,554 - INFO - Epoch 23, Test Loss: 0.0408, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:51:20,291 - INFO - Epoch 24, Test Loss: 0.0411, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:51:57,847 - INFO - Epoch 25, Test Loss: 0.0415, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:52:35,646 - INFO - Epoch 26, Test Loss: 0.0422, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:53:12,592 - INFO - Epoch 27, Test Loss: 0.0420, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:53:50,440 - INFO - Epoch 28, Test Loss: 0.0422, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:54:28,693 - INFO - Epoch 29, Test Loss: 0.0422, Test acc: 0.8776, F1: 0.8749
+2025-04-24 23:55:06,965 - INFO - Epoch 30, Test Loss: 0.0424, Test acc: 0.8776, F1: 0.8749
+2025-05-06 13:04:15,851 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 13:04:48,541 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-05-06 13:05:17,968 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-05-06 13:05:51,474 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-05-06 13:06:24,229 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163
+2025-05-06 13:06:56,620 - INFO - Epoch 6, Test Loss: 0.0288, Test acc: 0.9184, F1: 0.9163
+2025-05-06 13:07:27,994 - INFO - Epoch 7, Test Loss: 0.0292, Test acc: 0.9388, F1: 0.9366
+2025-05-06 13:07:59,667 - INFO - Epoch 8, Test Loss: 0.0300, Test acc: 0.9388, F1: 0.9366
+2025-05-06 13:11:04,861 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 13:12:06,333 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 13:12:35,281 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-05-06 13:13:04,606 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-05-06 13:13:34,356 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-05-06 13:14:04,807 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163
+2025-05-06 17:48:46,538 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-05-06 17:50:05,819 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-05-06 17:50:46,209 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 17:52:26,492 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-05-06 17:52:40,154 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-05-06 17:53:47,763 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-05-06 17:54:58,812 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551, F1: 0.7470
+2025-05-06 17:55:06,928 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-05-06 17:55:37,425 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163
+2025-05-06 17:58:23,968 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-05-06 17:59:03,455 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-05-06 17:59:43,515 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-05-06 18:00:22,262 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551, F1: 0.7470
+2025-05-06 19:33:28,048 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-05-06 19:34:06,392 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-05-06 19:34:44,851 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-05-06 19:35:24,048 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551, F1: 0.7470
+2025-05-06 19:40:45,271 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 19:41:15,315 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-05-06 19:41:45,293 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-05-06 19:42:15,188 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-05-06 19:42:45,588 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163
+2025-05-06 19:43:38,209 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-05-06 19:44:18,664 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-05-06 19:44:48,681 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-05-06 19:45:27,242 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-05-06 19:45:47,573 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-05-06 19:46:05,595 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163
+2025-05-06 19:46:33,827 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-05-06 19:47:14,904 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-05-06 19:48:04,772 - INFO - Epoch 4, Test Loss: 0.0591, Test acc: 0.7551, F1: 0.7470
+2025-05-06 19:48:45,208 - INFO - Epoch 5, Test Loss: 0.0436, Test acc: 0.8776, F1: 0.8783
+2025-06-08 18:55:16,465 - INFO - Epoch 1, Test Loss: 0.1416, Test acc: 0.7143, F1: 0.7050
+2025-06-08 18:55:41,134 - INFO - Epoch 1, Test Loss: 0.1576, Test acc: 0.6735, F1: 0.5990
+2025-06-08 18:55:49,926 - INFO - Epoch 2, Test Loss: 0.0532, Test acc: 0.8367, F1: 0.8349
+2025-06-08 18:56:22,250 - INFO - Epoch 3, Test Loss: 0.0581, Test acc: 0.8980, F1: 0.8984
+2025-06-08 18:56:27,839 - INFO - Epoch 2, Test Loss: 0.0688, Test acc: 0.7959, F1: 0.7833
+2025-06-08 18:56:54,445 - INFO - Epoch 4, Test Loss: 0.0286, Test acc: 0.8980, F1: 0.8993
+2025-06-08 18:57:14,703 - INFO - Epoch 3, Test Loss: 0.0398, Test acc: 0.8776, F1: 0.8776
+2025-06-08 18:57:27,935 - INFO - Epoch 5, Test Loss: 0.0334, Test acc: 0.9184, F1: 0.9163

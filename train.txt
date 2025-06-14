@@ -1,0 +1,186 @@
+./数据集/Affenhuahua dog/Image_10.jpg 0
+./数据集/Affenhuahua dog/Image_11.jpg 0
+./数据集/Affenhuahua dog/Image_12.jpg 0
+./数据集/Affenhuahua dog/Image_13.jpg 0
+./数据集/Affenhuahua dog/Image_15.jpg 0
+./数据集/Affenhuahua dog/Image_16.jpg 0
+./数据集/Affenhuahua dog/Image_17.jpg 0
+./数据集/Affenhuahua dog/Image_18.jpg 0
+./数据集/Affenhuahua dog/Image_19.jpg 0
+./数据集/Affenhuahua dog/Image_1_flip.jpg 0
+./数据集/Affenhuahua dog/Image_1_rotated45.jpg 0
+./数据集/Affenhuahua dog/Image_2.jpg 0
+./数据集/Affenhuahua dog/Image_21.png 0
+./数据集/Affenhuahua dog/Image_22.jpg 0
+./数据集/Affenhuahua dog/Image_24.jpg 0
+./数据集/Affenhuahua dog/Image_26.png 0
+./数据集/Affenhuahua dog/Image_27.jpg 0
+./数据集/Affenhuahua dog/Image_28.jpg 0
+./数据集/Affenhuahua dog/Image_29.jpg 0
+./数据集/Affenhuahua dog/Image_2_rotated45.jpg 0
+./数据集/Affenhuahua dog/Image_3.jpg 0
+./数据集/Affenhuahua dog/Image_30.jpg 0
+./数据集/Affenhuahua dog/Image_31.jpg 0
+./数据集/Affenhuahua dog/Image_33.jpg 0
+./数据集/Affenhuahua dog/Image_35.jpg 0
+./数据集/Affenhuahua dog/Image_36.jpg 0
+./数据集/Affenhuahua dog/Image_37.jpg 0
+./数据集/Affenhuahua dog/Image_38.png 0
+./数据集/Affenhuahua dog/Image_39.jpg 0
+./数据集/Affenhuahua dog/Image_3_flip.jpg 0
+./数据集/Affenhuahua dog/Image_4.png 0
+./数据集/Affenhuahua dog/Image_40.jpg 0
+./数据集/Affenhuahua dog/Image_41.jpg 0
+./数据集/Affenhuahua dog/Image_43.jpg 0
+./数据集/Affenhuahua dog/Image_44.jpg 0
+./数据集/Affenhuahua dog/Image_45.jpg 0
+./数据集/Affenhuahua dog/Image_46.png 0
+./数据集/Affenhuahua dog/Image_47.jpg 0
+./数据集/Affenhuahua dog/Image_49.jpg 0
+./数据集/Affenhuahua dog/Image_4_flip.jpg 0
+./数据集/Affenhuahua dog/Image_4_rotated45.jpg 0
+./数据集/Affenhuahua dog/Image_5.jpg 0
+./数据集/Affenhuahua dog/Image_50.jpg 0
+./数据集/Affenhuahua dog/Image_5_flip.jpg 0
+./数据集/Affenhuahua dog/Image_6.jpg 0
+./数据集/Affenhuahua dog/Image_7.jpg 0
+./数据集/Affenhuahua dog/Image_8.jpg 0
+./数据集/Affenhuahua dog/Image_9.jpg 0
+./数据集/Affenhuahua dog/Image__flip.jpg 0
+./数据集/Afgan Hound dog/Image_1.jpg 1
+./数据集/Afgan Hound dog/Image_10.jpg 1
+./数据集/Afgan Hound dog/Image_11.jpg 1
+./数据集/Afgan Hound dog/Image_12.jpg 1
+./数据集/Afgan Hound dog/Image_13.jpg 1
+./数据集/Afgan Hound dog/Image_15.jpg 1
+./数据集/Afgan Hound dog/Image_16.jpg 1
+./数据集/Afgan Hound dog/Image_17.jpg 1
+./数据集/Afgan Hound dog/Image_18.jpg 1
+./数据集/Afgan Hound dog/Image_19.jpg 1
+./数据集/Afgan Hound dog/Image_1_flip.jpg 1
+./数据集/Afgan Hound dog/Image_2.jpg 1
+./数据集/Afgan Hound dog/Image_20.jpg 1
+./数据集/Afgan Hound dog/Image_21.jpg 1
+./数据集/Afgan Hound dog/Image_22.jpg 1
+./数据集/Afgan Hound dog/Image_23.jpg 1
+./数据集/Afgan Hound dog/Image_24.jpg 1
+./数据集/Afgan Hound dog/Image_25.jpg 1
+./数据集/Afgan Hound dog/Image_27.jpg 1
+./数据集/Afgan Hound dog/Image_28.jpg 1
+./数据集/Afgan Hound dog/Image_2_flip.jpg 1
+./数据集/Afgan Hound dog/Image_2_rotated45.jpg 1
+./数据集/Afgan Hound dog/Image_3.jpg 1
+./数据集/Afgan Hound dog/Image_30.jpg 1
+./数据集/Afgan Hound dog/Image_31.jpg 1
+./数据集/Afgan Hound dog/Image_32.jpg 1
+./数据集/Afgan Hound dog/Image_33.jpg 1
+./数据集/Afgan Hound dog/Image_36.jpg 1
+./数据集/Afgan Hound dog/Image_37.jpg 1
+./数据集/Afgan Hound dog/Image_39.jpg 1
+./数据集/Afgan Hound dog/Image_3_flip.jpg 1
+./数据集/Afgan Hound dog/Image_3_rotated45.jpg 1
+./数据集/Afgan Hound dog/Image_4.jpg 1
+./数据集/Afgan Hound dog/Image_41.jpg 1
+./数据集/Afgan Hound dog/Image_44.jpg 1
+./数据集/Afgan Hound dog/Image_45.jpg 1
+./数据集/Afgan Hound dog/Image_46.jpg 1
+./数据集/Afgan Hound dog/Image_48.jpg 1
+./数据集/Afgan Hound dog/Image_49.jpg 1
+./数据集/Afgan Hound dog/Image_4_flip.jpg 1
+./数据集/Afgan Hound dog/Image_5.jpg 1
+./数据集/Afgan Hound dog/Image_50.jpg 1
+./数据集/Afgan Hound dog/Image_5_flip.jpg 1
+./数据集/Afgan Hound dog/Image_5_rotated45.jpg 1
+./数据集/Afgan Hound dog/Image_6.jpg 1
+./数据集/Afgan Hound dog/Image_7.jpg 1
+./数据集/Afgan Hound dog/Image_8.jpg 1
+./数据集/Afgan Hound dog/Image_9.jpg 1
+./数据集/Afgan Hound dog/Image__flip.jpg 1
+./数据集/Akita dog/Image_1.jpg 2
+./数据集/Akita dog/Image_10.jpg 2
+./数据集/Akita dog/Image_12.jpg 2
+./数据集/Akita dog/Image_13.jpg 2
+./数据集/Akita dog/Image_14.jpg 2
+./数据集/Akita dog/Image_15.jpg 2
+./数据集/Akita dog/Image_16.jpg 2
+./数据集/Akita dog/Image_18.jpg 2
+./数据集/Akita dog/Image_19.jpg 2
+./数据集/Akita dog/Image_20.jpg 2
+./数据集/Akita dog/Image_22.jpg 2
+./数据集/Akita dog/Image_23.jpg 2
+./数据集/Akita dog/Image_25.jpg 2
+./数据集/Akita dog/Image_26.jpg 2
+./数据集/Akita dog/Image_27.jpg 2
+./数据集/Akita dog/Image_28.jpg 2
+./数据集/Akita dog/Image_2_rotated45.jpg 2
+./数据集/Akita dog/Image_3.jpg 2
+./数据集/Akita dog/Image_30.jpg 2
+./数据集/Akita dog/Image_32.jpg 2
+./数据集/Akita dog/Image_33.jpg 2
+./数据集/Akita dog/Image_34.jpg 2
+./数据集/Akita dog/Image_35.jpg 2
+./数据集/Akita dog/Image_36.jpg 2
+./数据集/Akita dog/Image_37.jpg 2
+./数据集/Akita dog/Image_38.jpg 2
+./数据集/Akita dog/Image_39.jpg 2
+./数据集/Akita dog/Image_3_flip.jpg 2
+./数据集/Akita dog/Image_3_rotated45.jpg 2
+./数据集/Akita dog/Image_4.jpg 2
+./数据集/Akita dog/Image_40.jpg 2
+./数据集/Akita dog/Image_41.jpg 2
+./数据集/Akita dog/Image_42.jpg 2
+./数据集/Akita dog/Image_43.jpg 2
+./数据集/Akita dog/Image_44.jpg 2
+./数据集/Akita dog/Image_46.jpg 2
+./数据集/Akita dog/Image_47.jpg 2
+./数据集/Akita dog/Image_49.jpg 2
+./数据集/Akita dog/Image_4_rotated45.jpg 2
+./数据集/Akita dog/Image_5.jpg 2
+./数据集/Akita dog/Image_50.jpg 2
+./数据集/Akita dog/Image_5_flip.jpg 2
+./数据集/Akita dog/Image_5_rotated45.jpg 2
+./数据集/Akita dog/Image_7.jpg 2
+./数据集/Akita dog/Image_8.jpg 2
+./数据集/Akita dog/Image_9.jpg 2
+./数据集/Akita dog/Image__flip.jpg 2
+./数据集/Akita dog/Image__rotated45.jpg 2
+./数据集/Husky/Image_1.png 3
+./数据集/Husky/Image_12.png 3
+./数据集/Husky/Image_13.png 3
+./数据集/Husky/Image_14.png 3
+./数据集/Husky/Image_15.png 3
+./数据集/Husky/Image_17.png 3
+./数据集/Husky/Image_18.jpg 3
+./数据集/Husky/Image_2.jpg 3
+./数据集/Husky/Image_20.jpg 3
+./数据集/Husky/Image_21.jpg 3
+./数据集/Husky/Image_22.jpg 3
+./数据集/Husky/Image_23.jpg 3
+./数据集/Husky/Image_25.jpg 3
+./数据集/Husky/Image_27.jpg 3
+./数据集/Husky/Image_28.jpg 3
+./数据集/Husky/Image_29.jpg 3
+./数据集/Husky/Image_3.jpg 3
+./数据集/Husky/Image_30.jpg 3
+./数据集/Husky/Image_31.jpg 3
+./数据集/Husky/Image_32.jpg 3
+./数据集/Husky/Image_33.jpg 3
+./数据集/Husky/Image_35.jpg 3
+./数据集/Husky/Image_36.jpg 3
+./数据集/Husky/Image_37.jpg 3
+./数据集/Husky/Image_38.jpg 3
+./数据集/Husky/Image_39.jpg 3
+./数据集/Husky/Image_4.jpg 3
+./数据集/Husky/Image_41.jpg 3
+./数据集/Husky/Image_43.jpg 3
+./数据集/Husky/Image_44.jpg 3
+./数据集/Husky/Image_45.jpg 3
+./数据集/Husky/Image_46.jpg 3
+./数据集/Husky/Image_47.jpg 3
+./数据集/Husky/Image_48.jpg 3
+./数据集/Husky/Image_5.jpg 3
+./数据集/Husky/Image_50.jpg 3
+./数据集/Husky/Image_6.png 3
+./数据集/Husky/Image_7.jpg 3
+./数据集/Husky/Image_8.jpg 3
+./数据集/Husky/Image_9.png 3
