@@ -1,4 +1,5 @@
-# dog_recognition
+
+#2025年下人工智能实践类项目 dog_recognition
 使用数据集训练模型后，对图片中的犬类进行识别
 
 综述：
